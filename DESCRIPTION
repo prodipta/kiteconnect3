@@ -1,0 +1,30 @@
+Package: kiteconnect3
+Type: Package
+Title: Connect to Zerodha Kite Connect API version 3
+Version: 0.1.0
+Author: Prodipta Ghosh <prodiptag@gmail.com>
+Maintainer: Prodipta Ghosh <prodiptag@gmail.com>
+Description: R wrapper for Zerodha Kite Connect API (version 3), with most
+    functionalities exposed. This package is intended to serve as a lower level
+    utility on top of which applications can be build. For example this package
+    does not handle user input validation for most functions, and raises R-style
+    exceptions instead.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 2.10),
+    stats
+Imports:
+    httr,
+    readr,
+    digest,
+    glue,
+    methods,
+    xts
+Suggests:
+    RSelenium,
+    knitr,
+    rmarkdown
+RoxygenNote: 5.0.1
+VignetteBuilder: knitr
