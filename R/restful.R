@@ -196,8 +196,8 @@ get_positions <- function(object){
   if(!is.null(r)){
     net <- data.frame()
     day <- data.frame()
-    if(!is.null(r$data$net))net <- list_to_df(r$data$net)
-    if(!is.null(r$data$day))day <- list_to_df(r$data$day)
+    if(length(r$data$net)>0)net <- list_to_df(r$data$net)
+    if(length(r$data$day)>0)day <- list_to_df(r$data$day)
     r <- list(net=net,day=day)
   }
 

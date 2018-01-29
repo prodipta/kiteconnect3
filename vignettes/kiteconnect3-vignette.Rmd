@@ -18,7 +18,8 @@ one to do the following:
 
 The parts of the API that this package does not implement:
 
-- Websocket streaming (may be in future!). 
+- Websocket streaming (may be in future!).
+- Mutual fund related functionalities (may be in future!).
 
 ## Requirements
 
