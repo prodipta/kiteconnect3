@@ -26,4 +26,3 @@ api_secret). A successful call also set the user data within the object.
 \seealso{
 \code{\link[kiteconnect3]{set_request_token}}
 }
-

@@ -22,4 +22,3 @@ Gets the margin details of the user.
 Returns a list with margin details. If no segment is specified.
 returns for both the segments, else only for the one specified.
 }
-

@@ -48,4 +48,3 @@ documentation for more details.
 
 \code{\link[kiteconnect3]{get_ltp}}
 }
-

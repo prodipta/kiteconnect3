@@ -36,4 +36,3 @@ Kite Connect online documentation for more details.
 
 \code{\link[kiteconnect3]{get_historical_price}}
 }
-

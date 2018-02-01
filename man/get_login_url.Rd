@@ -16,4 +16,3 @@ Returns the login URL.
 Function to get the login URL (the login entry + api_key) from
 the kite object.
 }
-

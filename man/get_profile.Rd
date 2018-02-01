@@ -16,4 +16,3 @@ Returns a list with user details, if successful.
 \description{
 Gets the details of the user.
 }
-

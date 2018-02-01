@@ -24,4 +24,3 @@ object.
 
 \code{\link[kiteconnect3]{fetch_access_token}}
 }
-

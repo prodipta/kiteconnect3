@@ -16,4 +16,3 @@ Returns a list with holdings details, if successful.
 \description{
 Gets the holdings details of the user for the day.
 }
-

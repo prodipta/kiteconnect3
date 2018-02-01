@@ -35,4 +35,3 @@ of api end points) are optional and recommended to use the default values.
 Other attributes which are not implemented are: debug(logical); micro_cache
 (logical); session_hook(function); timeout(numeric) and proxies(character).
 }
-

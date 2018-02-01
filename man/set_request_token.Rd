@@ -27,4 +27,3 @@ request token is posted alongwith as a query parameter.
 \seealso{
 \code{\link[kiteconnect3]{create_connection_object}}
 }
-

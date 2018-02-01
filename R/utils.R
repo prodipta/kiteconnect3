@@ -6,9 +6,11 @@ list_to_df <- function(listfordf){
   strcols <- names(unlist(listfordf[[1]]))
   strrows <- names(listfordf)
   if(is.null(strrows))strrows <- 1:n
-  lapply(2:n, function(i){
-    strcols <<- unique(c(strcols,names(unlist(listfordf[[i]]))))
-  })
+  if(n>1){
+    lapply(2:n, function(i){
+      strcols <<- unique(c(strcols,names(unlist(listfordf[[i]]))))
+    })
+  }
 
   df <- data.frame(matrix(0,n,NROW(strcols)))
   colnames(df) <- strcols

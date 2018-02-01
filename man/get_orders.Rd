@@ -16,4 +16,3 @@ Returns a dataframe with order details, if successful.
 \description{
 Gets the order details of the user for the day.
 }
-

@@ -68,4 +68,3 @@ an order ID is received from this call.
 
 \code{\link[kiteconnect3]{cancel_order}}
 }
-

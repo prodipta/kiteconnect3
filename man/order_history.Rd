@@ -21,4 +21,3 @@ Gets the order history for a given order.
 \seealso{
 \code{\link[kiteconnect3]{order_trades}}
 }
-

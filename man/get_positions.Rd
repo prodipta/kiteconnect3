@@ -17,4 +17,3 @@ one for net (`net`) positions and another for the day(`day`).
 \description{
 Gets the position details of the user for the day and net.
 }
-

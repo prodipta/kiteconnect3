@@ -24,4 +24,3 @@ This function returns list of instruments trading on a given
 exchange or across all exchanges. Ideally one should not be required to
 call this function more than once a day (and save a local copy).
 }
-

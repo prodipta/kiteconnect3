@@ -19,4 +19,3 @@ This function invalidates and rest the access token.
 This function sends a request to kite api to invalidate the
 session and then reset the request token and access token within the object.
 }
-
