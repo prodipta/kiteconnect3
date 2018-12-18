@@ -12,4 +12,4 @@ devtools::install_github("prodipta/kiteconnect3")
 ```
 
 ## Example
-For details on the use of the package and other important points, please see the package [vignette](kiteconnect3/blob/master/vignettes/kite_connect.md).
+For details on the use of the package and other important points, please see the package [vignette](vignettes/kite_connect.md).
